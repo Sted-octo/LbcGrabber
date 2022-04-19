@@ -1,2 +1,2 @@
 # LbcGrabber
-Get LittleBig Connection information for on client, transform to csv file
+Get LittleBig Connection informations for a client, and transform them to csv file
